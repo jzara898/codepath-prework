@@ -2,7 +2,7 @@ IntroduceStudent
 iOS App with basic functionality that allows the user to input information and display an introduction message as an alert.
 
 App Walk-though
-![](IntroduceStudent.gif)
+![](https://i.imgur.com/xl8g9Nw.gif)
 
 
 Required Features
