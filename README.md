@@ -2,7 +2,7 @@ IntroduceStudent
 iOS App with basic functionality that allows the user to input information and display an introduction message as an alert.
 
 App Walk-though
-https://imgur.com/a/4ZPpGex 
+![](http://i.imgur.com/KeXxnksh.gif)
 
 Required Features
 [x] App displays an image of a school's logo
